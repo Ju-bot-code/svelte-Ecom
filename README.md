@@ -20,6 +20,8 @@ cd svelte-app
 
 ## Get started
 
+OverView:  https://svelte-shoopingsite.netlify.app/
+
 Install the dependencies...
 
 ```bash
