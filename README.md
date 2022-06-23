@@ -17,8 +17,14 @@ cd svelte-app
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
+## Overview
+
+OverView:  https://svelte-shoopingsite.netlify.app/
+
 
 ## Get started
+
+
 
 Install the dependencies...
 
