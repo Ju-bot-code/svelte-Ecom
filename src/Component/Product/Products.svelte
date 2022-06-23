@@ -1,6 +1,6 @@
 <script>
 
-    import Products from '../../Stores/defaultProducts'; 
+    import Products from '../../Stores/Products'; 
     export let title ='';  
     import Prod from '../Product/Product.svelte'
     import Loading from '../Loading.svelte'

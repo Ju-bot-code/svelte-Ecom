@@ -1,6 +1,6 @@
 <script>
 
-    import {FeaturedStore} from '../../Stores/defaultProducts'; 
+    import {FeaturedStore} from '../../Stores/Products'; 
     import Prod from '../Product/Product.svelte';
     import Loading from '../Loading.svelte';
 

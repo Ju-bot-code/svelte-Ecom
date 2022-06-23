@@ -1,6 +1,6 @@
 <script>
     import Loading from "../Component/Loading.svelte";
-    import Products from '../Stores/defaultProducts'; 
+    import Products from '../Stores/Products'; 
     import {link} from 'svelte-routing';
     import golbalStore from '../Stores/globalStore'
     import {addToCart} from '../Stores/Cart'
